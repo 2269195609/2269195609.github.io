@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
+url: http://2269195609.github.io
+title: My Blog
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Jaron Li
 simple_search: https://www.google.com/search
 description:
 
@@ -68,7 +68,8 @@ github_user:
 github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
-
+#social_share
+social_share: true
 # Twitter
 twitter_user:
 twitter_tweet_button: true
